@@ -50,7 +50,7 @@ level explanation with respect to the reflection-based implementation:
 
 ## The Unit Tests
 Here is a class diagram of the unit tests based on the expectations diagram:
-![Unit Tests](UML-Unit Tests.png)
+![Unit Tests](UML-UnitTests.png)
 
 ## Conclusion
 Java's access level modifiers work as advertised, but I hope I never encounter 
